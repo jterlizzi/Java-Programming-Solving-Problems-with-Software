@@ -1,4 +1,4 @@
-# jterlizzi-Java-Programming-Solving-Problems-with-Software
+# Java-Programming-Solving-Problems-with-Software
 Learn to code in Java and improve your programming and problem-solving skills. You will learn to design algorithms as well as develop and debug programs. Using custom open-source classes, you will write programs that access and transform images, websites, and other types of data. At the end of the course you will build a program that determines the popularity of different baby names in the US over time by analyzing comma separated value (CSV) files.   
 
 After completing this course you will be able to: 
